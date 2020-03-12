@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mysql": "^2.18.1",
-    "pryjs": "^1.0.3"
+    "mysql": "^2.18.1"
   }
 }

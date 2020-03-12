@@ -1,6 +1,6 @@
 var inquirer = require('inquirer');
 var mysql = require('mysql');
-pry = require('pryjs');
+
 
 var connection = mysql.createConnection({
   host: "localhost",
